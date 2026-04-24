@@ -14,7 +14,7 @@ const spaceGrotesk = Space_Grotesk({
 
 export const metadata: Metadata = {
   title: "AI Agent Suit | Your Complete AI Command Center",
-  description: "Pre-configured OpenClaw environment with 20+ skills, multi-agent orchestration, and content-to-cash pipelines. Deploy in 10 minutes.",
+  description: "Pre-configured AI environment with 20+ skills, multi-agent orchestration, and content-to-cash pipelines. Deploy in 10 minutes.",
 };
 
 export default function RootLayout({

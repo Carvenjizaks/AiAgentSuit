@@ -23,7 +23,7 @@ export default function Hero() {
             {/* Badge */}
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm">
               <Sparkles className="w-4 h-4 text-cyan-400" />
-              <span className="text-gray-300">Powered by OpenClaw</span>
+              <span className="text-gray-300">Powered by AI</span>
               <span className="px-2 py-0.5 rounded-full bg-cyan-500/20 text-cyan-400 text-xs font-medium">
                 v2.0
               </span>
@@ -38,7 +38,7 @@ export default function Hero() {
 
             {/* Subheadline */}
             <p className="text-lg sm:text-xl text-gray-400 max-w-xl leading-relaxed">
-              Pre-configured OpenClaw environment with 20+ skills, multi-agent orchestration, 
+              Pre-configured AI environment with 20+ skills, multi-agent orchestration,
               and content-to-cash pipelines. Deploy in 10 minutes, ship projects in hours.
             </p>
 

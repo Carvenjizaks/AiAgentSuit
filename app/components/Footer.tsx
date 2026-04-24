@@ -15,7 +15,7 @@ export default function Footer() {
     Resources: [
       { label: "Documentation", href: "#" },
       { label: "GitHub", href: "https://github.com/Carvenjizaks/AiAgentSuit" },
-      { label: "OpenClaw", href: "https://openclaw.ai" },
+      { label: "Docs", href: "#" },
     ],
     Company: [
       { label: "About", href: "#" },
@@ -46,7 +46,7 @@ export default function Footer() {
               </span>
             </a>
             <p className="text-gray-400 text-sm max-w-xs mb-6">
-              Pre-configured OpenClaw environment with 20+ skills and multi-agent 
+              Pre-configured AI environment with 20+ skills and multi-agent
               orchestration. Deploy in 10 minutes.
             </p>
             <div className="flex items-center gap-4">
@@ -89,10 +89,8 @@ export default function Footer() {
             © {currentYear} AI Agent Suit. All rights reserved.
           </p>
           <p className="text-gray-600 text-sm">
-            Powered by{" "}
-            <a href="https://openclaw.ai" className="text-gray-500 hover:text-cyan-400 transition-colors">
-              OpenClaw
-            </a>
+            Built with{" "}
+            <span className="text-gray-500">AI</span>
           </p>
         </div>
       </div>

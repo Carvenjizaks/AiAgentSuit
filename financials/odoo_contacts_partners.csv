@@ -1,0 +1,119 @@
+name,partner_type,category_id/name
+JM Izaks,contact,Donor – Individual
+E.B. Strauss,contact,Donor – Individual
+Bruce & Mary Hansen,contact,Donor – Individual
+Astrido (Trust/Entity),contact,Donor – Entity
+Rozan Malumo,contact,Donor – Individual
+Grant Klein,contact,Donor – Individual
+Irene Oppel,contact,Donor – Individual
+Shughaza Tiende,contact,Donor – Individual
+Lauren (surname unknown),contact,Donor – Individual
+TMZ (Tithe),contact,Donor – Individual
+Ally Mercia Maurih,contact,Donor – Individual
+Tithe Uazukuani,contact,Donor – Individual
+Mr & Mrs Ngaveten,contact,Donor – Individual
+Conville Britz,contact,Donor – Individual
+S.H. Beukes (Rivers MC26),contact,Donor – Individual
+Jansen (Tithe),contact,Donor – Individual
+M. Lubinda,contact,Donor – Individual
+K. van Rooi,contact,Donor – Individual
+Van Wyk (Tithe),contact,Donor – Individual
+Beulah (Tithe),contact,Donor – Individual
+Nadine Barth Philander,contact,Donor – Individual
+Dakota Hansen,contact,Donor – Individual
+A.D. Carew,contact,Donor – Individual
+Ms Flora Mupia,contact,Donor – Individual
+Ms Amalia Kaahangoro,contact,Donor – Individual
+Elzita Beukes,contact,Donor – Individual
+Mr D (Tithe),contact,Donor – Individual
+Sashalee Swarts,contact,Donor – Individual
+Rodger (Tithing),contact,Donor – Individual
+082772 (Tithe),contact,Donor – Individual
+Uejaa U Mberirua,contact,Donor – Individual
+Offering Uazukuani,contact,Donor – Individual
+Pastor-Powehouse (Offering),contact,Donor – Entity
+POWERHOUSE-TRUST-CHARITY,contact,Donor – Entity
+Valentia (Offering),contact,Donor – Individual
+Zane Carew,contact,Donor – Individual
+Bertha Njembo,contact,Donor – Individual
+Hansen Ramon,contact,Donor – Individual
+Alan & LJ (10th Tithe),contact,Donor – Individual
+Collin van Wyk,contact,Donor – Individual
+De Almeidas (Family),contact,Donor – Family
+Amwele (Tithe),contact,Donor – Individual
+JC Hansen (Family Pic),contact,Donor – Individual
+Mwala (Mens Conf),contact,Donor – Individual
+Alan Hansen (Sponsor),contact,Donor – Individual
+Stop Order 1009 Contributor,contact,Donor – Unknown
+Simonis Storm (Donor),contact,Donor – Entity
+Namibia Health Plan (NHP),supplier,Vendor – Insurance
+Sanlam Namibia,supplier,Vendor – Insurance
+Homestar (HS3785),supplier,Vendor – Housing
+Homestar (HS3890),supplier,Vendor – Housing
+Paratus Namibia (Internet),supplier,Vendor – Telecom
+MTC Namibia (Mobile),supplier,Vendor – Telecom
+City of Windhoek (616749242),supplier,Vendor – Utilities
+City of Windhoek (607707170),supplier,Vendor – Utilities
+MLPAYMENT (Debit Order),supplier,Vendor – Financial
+AFPAYMENT (Debit Order),supplier,Vendor – Financial
+OMLACN (Debit Order),supplier,Vendor – Financial
+Ashley Renovations,supplier,Vendor – Contractor
+Frikkie Jordaan,supplier,Vendor – Contractor
+Scouts of Namibia,supplier,Vendor – Facility Rental
+Windhoek High School (WHS),supplier,Vendor – Education
+Anthropic (Claude AI),supplier,Vendor – Technology
+OpenAI (ChatGPT),supplier,Vendor – Technology
+Vercel Inc,supplier,Vendor – Technology
+Moonshot AI,supplier,Vendor – Technology
+Kimi API / MiniMax,supplier,Vendor – Technology
+Venice AI,supplier,Vendor – Technology
+Peer Skool (P Skool),supplier,Vendor – Technology
+SciSpace,supplier,Vendor – Technology
+Google Workspace,supplier,Vendor – Technology
+PayPal (SMTP Hosting),supplier,Vendor – Technology
+MAGAI AI,supplier,Vendor – Technology
+Hyonix (Hosting),supplier,Vendor – Technology
+Ampleur Global,supplier,Vendor – Technology
+OpenRouter,supplier,Vendor – Technology
+Mentim / PayPal Mentim,supplier,Vendor – Technology
+Bravofly (Flights),supplier,Vendor – Travel
+Booking.com,supplier,Vendor – Travel
+eDreams (Flights),supplier,Vendor – Travel
+Gotogate (Flights),supplier,Vendor – Travel
+Agoda (Accommodation),supplier,Vendor – Travel
+BKG Booking Co,supplier,Vendor – Travel
+Airlink Namibia,supplier,Vendor – Travel
+Courtyard Hotel,supplier,Vendor – Travel
+CVENT (Conference),supplier,Vendor – Travel
+Belinda (Staff),supplier,Vendor – Staff
+Carven J. Izaks,supplier,Vendor – Staff
+Pastor-FF-MGM,supplier,Vendor – Staff
+J.L. Caterers,supplier,Vendor – Events
+Juanita M. Izaks,supplier,Vendor – Contractor
+M. Farao,supplier,Vendor – Contractor
+Fiona Bianca CL,supplier,Vendor – Contractor
+Container World,supplier,Vendor – Supplies
+Joshua Zamora,supplier,Vendor – Contractor
+Brian Anderson,supplier,Vendor – Contractor
+Aunty Julie / JFC,supplier,Vendor – Community Aid
+Stage Audio World,supplier,Vendor – Equipment
+Apple Inc (Apple Store),supplier,Vendor – Technology
+Barco Namibia,supplier,Vendor – Maintenance
+Dischem Pharmacies,supplier,Vendor – Medical
+Dr Scholz,supplier,Vendor – Medical
+Auto Doctor,supplier,Vendor – Vehicle
+PayToday,supplier,Vendor – Medical Loans
+Bootlegger Coffee,supplier,Vendor – Meals
+Woolworths Namibia,supplier,Vendor – Groceries
+Checkers Namibia,supplier,Vendor – Groceries
+Engen Petroleum,supplier,Vendor – Fuel
+Total Energies,supplier,Vendor – Fuel
+Slabbert Fuels,supplier,Vendor – Fuel
+Precision Fuel,supplier,Vendor – Fuel
+CJI – FNB (Ministry Account),supplier,Vendor – Ministry
+Simonis Storm (Investments),supplier,Vendor – Financial
+PayFast (Rivers Event),supplier,Vendor – Events
+AiTraining (Refund Source),contact,Donor – Entity
+JAQS Eros (Office Rental),supplier,Vendor – Property
+Rodger (Loan),contact,Donor – Individual
+Standard Bank Namibia,supplier,Vendor – Bank

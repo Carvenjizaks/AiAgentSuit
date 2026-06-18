@@ -1,0 +1,3 @@
+date,ref,journal_id/name,line_ids/account_id/code,line_ids/name,line_ids/debit,line_ids/credit
+2026-02-01,OB/2026/001,Bank Journal,1001,Opening Balance – Standard Bank 042746051,89089.68,
+2026-02-01,OB/2026/001,Bank Journal,3001,Opening Equity / Accumulated Fund,,89089.68

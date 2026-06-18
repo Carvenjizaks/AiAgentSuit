@@ -1,6 +1,6 @@
 "use client";
 
-import { Zap, Github, Twitter, Mail } from "lucide-react";
+import { Zap, ExternalLink, X, Mail } from "lucide-react";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -26,8 +26,8 @@ export default function Footer() {
   };
 
   const socialLinks = [
-    { icon: Twitter, href: "#", label: "Twitter" },
-    { icon: Github, href: "https://github.com/Carvenjizaks/AiAgentSuit", label: "GitHub" },
+    { icon: X, href: "#", label: "Twitter" },
+    { icon: ExternalLink, href: "https://github.com/Carvenjizaks/AiAgentSuit", label: "GitHub" },
     { icon: Mail, href: "mailto:hello@aiagentsuit.com", label: "Email" },
   ];
 
